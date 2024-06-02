@@ -16,3 +16,6 @@ git branch
 git log
 git switch - c "nueva-rama"
 git log
+
+git remote add nombre + url repo github
+git push nombre +rama 
