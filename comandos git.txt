@@ -1,0 +1,18 @@
+echo contenido > archivo.extension
+git init
+code .
+git status
+git add ./archivo
+git status
+git commit -m "nombre del commit"
+git status
+git log
+git checkout 
+git log
+git commit -m "nombre del 2º commit"
+git branch
+git switch nombre_rama
+git branch
+git log
+git switch - c "nueva-rama"
+git log
