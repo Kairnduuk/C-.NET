@@ -1,0 +1,14 @@
+C:\Formación\C#.NET\Novedades .net 8\novedades\bin\Debug\net8.0\novedades.exe
+C:\Formación\C#.NET\Novedades .net 8\novedades\bin\Debug\net8.0\novedades.deps.json
+C:\Formación\C#.NET\Novedades .net 8\novedades\bin\Debug\net8.0\novedades.runtimeconfig.json
+C:\Formación\C#.NET\Novedades .net 8\novedades\bin\Debug\net8.0\novedades.dll
+C:\Formación\C#.NET\Novedades .net 8\novedades\bin\Debug\net8.0\novedades.pdb
+C:\Formación\C#.NET\Novedades .net 8\novedades\obj\Debug\net8.0\novedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formación\C#.NET\Novedades .net 8\novedades\obj\Debug\net8.0\novedades.AssemblyInfoInputs.cache
+C:\Formación\C#.NET\Novedades .net 8\novedades\obj\Debug\net8.0\novedades.AssemblyInfo.cs
+C:\Formación\C#.NET\Novedades .net 8\novedades\obj\Debug\net8.0\novedades.csproj.CoreCompileInputs.cache
+C:\Formación\C#.NET\Novedades .net 8\novedades\obj\Debug\net8.0\novedades.dll
+C:\Formación\C#.NET\Novedades .net 8\novedades\obj\Debug\net8.0\refint\novedades.dll
+C:\Formación\C#.NET\Novedades .net 8\novedades\obj\Debug\net8.0\novedades.pdb
+C:\Formación\C#.NET\Novedades .net 8\novedades\obj\Debug\net8.0\novedades.genruntimeconfig.cache
+C:\Formación\C#.NET\Novedades .net 8\novedades\obj\Debug\net8.0\ref\novedades.dll

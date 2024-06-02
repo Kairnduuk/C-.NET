@@ -1,0 +1,14 @@
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\obj\Debug\net8.0\2.ClasesObjetosyConstructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\obj\Debug\net8.0\2.ClasesObjetosyConstructores.AssemblyInfoInputs.cache
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\obj\Debug\net8.0\2.ClasesObjetosyConstructores.AssemblyInfo.cs
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\obj\Debug\net8.0\2.ClasesObjetosyConstructores.csproj.CoreCompileInputs.cache
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\bin\Debug\net8.0\2.ClasesObjetosyConstructores.exe
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\bin\Debug\net8.0\2.ClasesObjetosyConstructores.deps.json
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\bin\Debug\net8.0\2.ClasesObjetosyConstructores.runtimeconfig.json
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\bin\Debug\net8.0\2.ClasesObjetosyConstructores.dll
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\bin\Debug\net8.0\2.ClasesObjetosyConstructores.pdb
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\obj\Debug\net8.0\2.ClasesObjetosyConstructores.dll
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\obj\Debug\net8.0\refint\2.ClasesObjetosyConstructores.dll
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\obj\Debug\net8.0\2.ClasesObjetosyConstructores.pdb
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\obj\Debug\net8.0\2.ClasesObjetosyConstructores.genruntimeconfig.cache
+C:\Formación\C#.NET\2.ClasesObjetosyConstructores\obj\Debug\net8.0\ref\2.ClasesObjetosyConstructores.dll

@@ -1,0 +1,25 @@
+Preguntas .NET.
+
+Personal: soft skills.
+
+Técnica:
+
+Teórica: 
+-Generales
+-.NET
+-Otras tecnologías
+
+- Qué es .NET: Ecosistema de desarrollo de Microsoft, incluye varios lenguajes, librerias, frameworks, editores, etc.
+Es OPEN SOURCE, antes dividido, hasta 2019 (NET Framework).
+- Qué es CLR: Common Language Runtime: Una vez compilado como se ejecuta en su entorno, administra memoria, hilos excepciones, seguridad y GC, garbage collector: elimina objetos que no están en uso, es automático.
+-Qué es el MSIL:Codigo .NET es Ensamblado a MSIL.Mediante el JIT del CLR.
+-Qué es Linq:LIBRERIA de .Net  para consultar colecciones, fuerte tipado
+-Overloading o Overriding: Sobrecarga o sobreescritura.
+Crear varios métodos con le mismo nombre con distintos parámetros.
+Sobrescribe un método heredado de un padre ()
+¿Const o Readonly?: Cuando se define debe ser asignado el valor, readonly luego y puede ser modificada.
+-Struct o Class: Versión liviana de clases, de tipo valor. Clases son de tipo referencia (heap del GC).
+Struct mucho más rápidas pero menos métodos; no INTERFACES NI HERENCIA.
+No string, menos 16 bites, no uso frecuente.
+
+

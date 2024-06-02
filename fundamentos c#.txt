@@ -1,0 +1,6 @@
+Fundamentos C#: sentencias, tipos de datos. Como convertir.
+Prog Or Ob: Clase, Objetos, Metodos, Herencia, 
+Interfaces: contrato que categoriza clases y obliga a tener ciertos metodos, herencia .etc 
+Para los patrones de diseño: rompe multiherencia de C#. Conjunto propiedades y métodos.
+Entity Framework: ORM oficial de .NET. Mapeo BDD para usar como objeto.
+Como trabajar con Entity: Databasefirst o Codefirst.

@@ -1,0 +1,14 @@
+C:\Formación\C#.NET\4.Interfaces\obj\Debug\net8.0\4.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formación\C#.NET\4.Interfaces\obj\Debug\net8.0\4.Interfaces.AssemblyInfoInputs.cache
+C:\Formación\C#.NET\4.Interfaces\obj\Debug\net8.0\4.Interfaces.AssemblyInfo.cs
+C:\Formación\C#.NET\4.Interfaces\obj\Debug\net8.0\4.Interfaces.csproj.CoreCompileInputs.cache
+C:\Formación\C#.NET\4.Interfaces\bin\Debug\net8.0\4.Interfaces.exe
+C:\Formación\C#.NET\4.Interfaces\bin\Debug\net8.0\4.Interfaces.deps.json
+C:\Formación\C#.NET\4.Interfaces\bin\Debug\net8.0\4.Interfaces.runtimeconfig.json
+C:\Formación\C#.NET\4.Interfaces\bin\Debug\net8.0\4.Interfaces.dll
+C:\Formación\C#.NET\4.Interfaces\bin\Debug\net8.0\4.Interfaces.pdb
+C:\Formación\C#.NET\4.Interfaces\obj\Debug\net8.0\4.Interfaces.dll
+C:\Formación\C#.NET\4.Interfaces\obj\Debug\net8.0\refint\4.Interfaces.dll
+C:\Formación\C#.NET\4.Interfaces\obj\Debug\net8.0\4.Interfaces.pdb
+C:\Formación\C#.NET\4.Interfaces\obj\Debug\net8.0\4.Interfaces.genruntimeconfig.cache
+C:\Formación\C#.NET\4.Interfaces\obj\Debug\net8.0\ref\4.Interfaces.dll

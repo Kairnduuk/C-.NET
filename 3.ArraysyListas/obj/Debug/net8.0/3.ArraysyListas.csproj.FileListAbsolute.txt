@@ -1,0 +1,14 @@
+C:\Formación\C#.NET\3.ArraysyListas\bin\Debug\net8.0\3.ArraysyListas.exe
+C:\Formación\C#.NET\3.ArraysyListas\bin\Debug\net8.0\3.ArraysyListas.deps.json
+C:\Formación\C#.NET\3.ArraysyListas\bin\Debug\net8.0\3.ArraysyListas.runtimeconfig.json
+C:\Formación\C#.NET\3.ArraysyListas\bin\Debug\net8.0\3.ArraysyListas.dll
+C:\Formación\C#.NET\3.ArraysyListas\bin\Debug\net8.0\3.ArraysyListas.pdb
+C:\Formación\C#.NET\3.ArraysyListas\obj\Debug\net8.0\3.ArraysyListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formación\C#.NET\3.ArraysyListas\obj\Debug\net8.0\3.ArraysyListas.AssemblyInfoInputs.cache
+C:\Formación\C#.NET\3.ArraysyListas\obj\Debug\net8.0\3.ArraysyListas.AssemblyInfo.cs
+C:\Formación\C#.NET\3.ArraysyListas\obj\Debug\net8.0\3.ArraysyListas.csproj.CoreCompileInputs.cache
+C:\Formación\C#.NET\3.ArraysyListas\obj\Debug\net8.0\3.ArraysyListas.dll
+C:\Formación\C#.NET\3.ArraysyListas\obj\Debug\net8.0\refint\3.ArraysyListas.dll
+C:\Formación\C#.NET\3.ArraysyListas\obj\Debug\net8.0\3.ArraysyListas.pdb
+C:\Formación\C#.NET\3.ArraysyListas\obj\Debug\net8.0\3.ArraysyListas.genruntimeconfig.cache
+C:\Formación\C#.NET\3.ArraysyListas\obj\Debug\net8.0\ref\3.ArraysyListas.dll

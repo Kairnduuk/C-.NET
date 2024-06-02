@@ -1,0 +1,14 @@
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\obj\Debug\net8.0\ifcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\obj\Debug\net8.0\ifcase.AssemblyInfoInputs.cache
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\obj\Debug\net8.0\ifcase.AssemblyInfo.cs
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\obj\Debug\net8.0\ifcase.csproj.CoreCompileInputs.cache
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\bin\Debug\net8.0\ifcase.exe
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\bin\Debug\net8.0\ifcase.deps.json
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\bin\Debug\net8.0\ifcase.runtimeconfig.json
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\bin\Debug\net8.0\ifcase.dll
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\bin\Debug\net8.0\ifcase.pdb
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\obj\Debug\net8.0\ifcase.dll
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\obj\Debug\net8.0\refint\ifcase.dll
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\obj\Debug\net8.0\ifcase.pdb
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\obj\Debug\net8.0\ifcase.genruntimeconfig.cache
+C:\Users\San\Desktop\OpenBootCamp\C# & NET\ifcase\obj\Debug\net8.0\ref\ifcase.dll

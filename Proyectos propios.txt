@@ -1,0 +1,8 @@
+Proyectos propios: app con acceso a BDD, crear, modificar eliminar con SQLCommand.
+Convertir Html a PDF
+Aplicación de tipo Agenda.
+Punto de venta.
+Importador de hoja de calculo a BDD creando Gráficas.
+Permisos y autenticación, seguridad.
+
+Git:

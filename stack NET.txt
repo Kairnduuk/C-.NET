@@ -1,0 +1,16 @@
+ORM: Entity Framework.
+Mapeo de BDD para poder utilizarla con programación orientada a objetos.
+
+Se obtiene data con repository PERO Entity puedo no dar el ancho para algunas cuestiones Y ENTONCES con Repository se puede obtener de entity framework, (Usado:) SQLCommand, dupper, la responsabilidad se 
+
+.NET Core 3 incluyó Blazor, puede hacer front sin usar javascript.
+
+ADO permite meter el Queri, 
+EntityEF trabaja con Linq y puede generar trabajar con memoria por error.
+
+Stack .Net: Html, Css, Javascript, fundamentos arrays: para usar React o Angular. C#: Programacion OO: INTERFAZ contrato para clases(propiedades y metodos) 
+PATRONES DE DISEÑO: Mediador, Singleton, Observador, Strategy, State, Bridge, FActory, Builder.
+
+Protocolos Http, codigos error, exito. Verbos: Get, post, delete, patch,etc
+
+Entender el esquma de .NET como se trabaja. Middlewares, filtros, data anotations, Entity Framework, Linq. Programación asincrona.

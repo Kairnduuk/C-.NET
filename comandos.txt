@@ -1,0 +1,10 @@
+dotnet --version
+Nuevo proyecto: dotnet new console -o nombreProyecto
+dotnet run
+dotnet add package System.Data.SqlClient --version 4.8.6
+dotnet add package MySql.Data --version 8.4.0
+dotnet add package supabase
+
+dotnet add package System.Text.Json
+
+9zU~-5RH@wHT:

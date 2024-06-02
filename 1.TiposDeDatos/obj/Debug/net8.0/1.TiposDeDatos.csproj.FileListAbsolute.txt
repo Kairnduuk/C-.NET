@@ -1,0 +1,14 @@
+C:\Formación\C#.NET\1.TiposDeDatos\obj\Debug\net8.0\1.TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formación\C#.NET\1.TiposDeDatos\obj\Debug\net8.0\1.TiposDeDatos.AssemblyInfoInputs.cache
+C:\Formación\C#.NET\1.TiposDeDatos\obj\Debug\net8.0\1.TiposDeDatos.AssemblyInfo.cs
+C:\Formación\C#.NET\1.TiposDeDatos\obj\Debug\net8.0\1.TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Formación\C#.NET\1.TiposDeDatos\bin\Debug\net8.0\1.TiposDeDatos.exe
+C:\Formación\C#.NET\1.TiposDeDatos\bin\Debug\net8.0\1.TiposDeDatos.deps.json
+C:\Formación\C#.NET\1.TiposDeDatos\bin\Debug\net8.0\1.TiposDeDatos.runtimeconfig.json
+C:\Formación\C#.NET\1.TiposDeDatos\bin\Debug\net8.0\1.TiposDeDatos.dll
+C:\Formación\C#.NET\1.TiposDeDatos\bin\Debug\net8.0\1.TiposDeDatos.pdb
+C:\Formación\C#.NET\1.TiposDeDatos\obj\Debug\net8.0\1.TiposDeDatos.dll
+C:\Formación\C#.NET\1.TiposDeDatos\obj\Debug\net8.0\refint\1.TiposDeDatos.dll
+C:\Formación\C#.NET\1.TiposDeDatos\obj\Debug\net8.0\1.TiposDeDatos.pdb
+C:\Formación\C#.NET\1.TiposDeDatos\obj\Debug\net8.0\1.TiposDeDatos.genruntimeconfig.cache
+C:\Formación\C#.NET\1.TiposDeDatos\obj\Debug\net8.0\ref\1.TiposDeDatos.dll
